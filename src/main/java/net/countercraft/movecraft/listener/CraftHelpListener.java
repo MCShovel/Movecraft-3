@@ -11,8 +11,8 @@ import org.bukkit.command.CommandSender;
 import net.countercraft.movecraft.craft.CraftManager;
 import net.countercraft.movecraft.craft.CraftType;
 import net.countercraft.movecraft.utils.BlockNames;
-import net.minecraft.server.v1_11_R1.Item;
-import net.minecraft.server.v1_11_R1.ItemStack;
+import net.minecraft.server.v1_12_R1.Item;
+import net.minecraft.server.v1_12_R1.ItemStack;
 
 public class CraftHelpListener implements CommandExecutor {
 

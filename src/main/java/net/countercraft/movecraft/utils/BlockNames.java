@@ -4,8 +4,8 @@ import java.util.Set;
 
 import org.bukkit.Material;
 
-import net.minecraft.server.v1_11_R1.Item;
-import net.minecraft.server.v1_11_R1.ItemStack;
+import net.minecraft.server.v1_12_R1.Item;
+import net.minecraft.server.v1_12_R1.ItemStack;
 
 public class BlockNames {
 
